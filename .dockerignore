@@ -3,5 +3,4 @@ node_modules
 .git
 .vscode
 site.zip
-out
 *.log
